@@ -1,0 +1,70 @@
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.deps.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.runtimeconfig.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.AssemblyReference.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfoInputs.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfo.cs
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\refint\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.genruntimeconfig.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\ref\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.deps.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.runtimeconfig.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.AssemblyReference.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfoInputs.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfo.cs
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\refint\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.genruntimeconfig.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\ref\SmartMonitoringSystem.Core.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.deps.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.runtimeconfig.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.AssemblyReference.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfoInputs.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfo.cs
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.CoreCompileInputs.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\refint\SmartMonitoringSystem.Core.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.genruntimeconfig.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\ref\SmartMonitoringSystem.Core.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.deps.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.runtimeconfig.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.AssemblyReference.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfoInputs.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfo.cs
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\refint\SmartMonitoringSystem.Core.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.genruntimeconfig.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\ref\SmartMonitoringSystem.Core.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.deps.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.runtimeconfig.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.AssemblyReference.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfoInputs.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.AssemblyInfo.cs
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.csproj.CoreCompileInputs.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\refint\SmartMonitoringSystem.Core.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\SmartMonitoringSystem.Core.genruntimeconfig.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net7.0\ref\SmartMonitoringSystem.Core.dll

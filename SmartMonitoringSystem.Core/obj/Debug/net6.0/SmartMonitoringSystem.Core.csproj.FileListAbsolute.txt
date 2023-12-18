@@ -1,0 +1,14 @@
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net6.0\SmartMonitoringSystem.Core.deps.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net6.0\SmartMonitoringSystem.Core.runtimeconfig.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net6.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\bin\Debug\net6.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\SmartMonitoringSystem.Core.csproj.AssemblyReference.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\SmartMonitoringSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\SmartMonitoringSystem.Core.AssemblyInfoInputs.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\SmartMonitoringSystem.Core.AssemblyInfo.cs
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\SmartMonitoringSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\refint\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\SmartMonitoringSystem.Core.genruntimeconfig.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\obj\Debug\net6.0\ref\SmartMonitoringSystem.Core.dll

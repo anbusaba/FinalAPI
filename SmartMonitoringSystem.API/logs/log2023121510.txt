@@ -1,0 +1,16 @@
+2023-12-15 10:05:12.406 +05:30 [INF] User profile is available. Using 'C:\Users\sabapathi.shanmugam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-15 10:05:12.511 +05:30 [INF] Start processing HTTP request GET https://localhost:44370/api/Dashboard/GetNotifications
+2023-12-15 10:05:12.515 +05:30 [INF] Sending HTTP request GET https://localhost:44370/api/Dashboard/GetNotifications
+2023-12-15 10:05:12.789 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-15 10:05:12.790 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-15 10:05:12.793 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-15 10:05:12.794 +05:30 [INF] Hosting environment: Development
+2023-12-15 10:05:12.795 +05:30 [INF] Content root path: D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-15 10:05:14.054 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-15 10:05:14.281 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 227.7937ms
+2023-12-15 10:05:14.292 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-15 10:05:14.300 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-15 10:05:14.316 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 19.8078ms
+2023-12-15 10:05:14.368 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 68.1470ms
+2023-12-15 10:05:14.428 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-15 10:05:14.574 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 145.7075ms

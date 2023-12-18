@@ -1,0 +1,70 @@
+2023-12-11 10:33:28.663 +05:30 [INF] User profile is available. Using 'C:\Users\lokes\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-11 10:33:29.287 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-12-11 10:33:29.359 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-11 10:33:29.360 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-11 10:33:29.363 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-11 10:33:29.363 +05:30 [INF] Hosting environment: Development
+2023-12-11 10:33:29.364 +05:30 [INF] Content root path: C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-11 10:33:31.821 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-12-11 10:33:32.095 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 277.4300ms
+2023-12-11 10:33:32.106 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-11 10:33:32.261 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 154.8602ms
+2023-12-11 10:33:32.264 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-12-11 10:33:32.265 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-12-11 10:33:32.265 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-12-11 10:33:32.265 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-11 10:33:32.267 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-11 10:33:32.285 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 13786 application/javascript;+charset=utf-8 19.9030ms
+2023-12-11 10:33:32.391 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-12-11 10:33:32.391 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-12-11 10:33:32.393 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 127.5384ms
+2023-12-11 10:33:32.394 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 130.2090ms
+2023-12-11 10:33:32.406 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-12-11 10:33:32.409 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 143.9040ms
+2023-12-11 10:33:32.440 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 173.7606ms
+2023-12-11 10:33:32.722 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-11 10:33:32.866 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 144.4656ms
+2023-12-11 10:35:05.909 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetProfile/1 - -
+2023-12-11 10:35:06.034 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetProfile (SmartMonitoringSystem.API)'
+2023-12-11 10:35:06.067 +05:30 [INF] Route matched with {action = "GetProfile", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.UserProfileResponse]] GetProfile(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 10:35:06.509 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.UserProfileResponse'.
+2023-12-11 10:35:06.524 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetProfile (SmartMonitoringSystem.API) in 448.5609ms
+2023-12-11 10:35:06.530 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetProfile (SmartMonitoringSystem.API)'
+2023-12-11 10:35:06.532 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetProfile/1 - - - 200 - application/json;+charset=utf-8 622.6022ms
+2023-12-11 10:35:15.819 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByPhaseID/1 - -
+2023-12-11 10:35:15.827 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 10:35:15.841 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]] GetSummaryDetailsByPhaseID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 10:35:15.867 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse'.
+2023-12-11 10:35:15.889 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByPhaseID (SmartMonitoringSystem.API) in 45.6924ms
+2023-12-11 10:35:15.892 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 10:35:15.893 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByPhaseID/1 - - - 200 - application/json;+charset=utf-8 74.0968ms
+2023-12-11 10:35:39.816 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetAllMembers - -
+2023-12-11 10:35:39.821 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetAllMembers (SmartMonitoringSystem.API)'
+2023-12-11 10:35:39.826 +05:30 [INF] Route matched with {action = "GetAllMembers", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.MemberResponse]]] GetAllMembers() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 10:35:39.844 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.MemberResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-11 10:35:39.847 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetAllMembers (SmartMonitoringSystem.API) in 18.422ms
+2023-12-11 10:35:39.848 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetAllMembers (SmartMonitoringSystem.API)'
+2023-12-11 10:35:39.849 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetAllMembers - - - 200 - application/json;+charset=utf-8 33.5571ms
+2023-12-11 10:35:57.221 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetAllPhases - -
+2023-12-11 10:35:57.223 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetAllPhases (SmartMonitoringSystem.API)'
+2023-12-11 10:35:57.228 +05:30 [INF] Route matched with {action = "GetAllPhases", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.PhaseResponse]]] GetAllPhases() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 10:35:57.239 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.PhaseResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-11 10:35:57.241 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetAllPhases (SmartMonitoringSystem.API) in 11.4529ms
+2023-12-11 10:35:57.243 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetAllPhases (SmartMonitoringSystem.API)'
+2023-12-11 10:35:57.244 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetAllPhases - - - 200 - application/json;+charset=utf-8 22.6064ms
+2023-12-11 10:37:40.024 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 92
+2023-12-11 10:37:40.033 +05:30 [INF] CORS policy execution failed.
+2023-12-11 10:37:40.035 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-11 10:37:40.036 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 10:37:40.041 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 10:37:42.805 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-12-11 10:37:42.810 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 2767.8331ms
+2023-12-11 10:37:42.812 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 10:37:42.814 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 92 - 200 - application/json;+charset=utf-8 2789.9445ms
+2023-12-11 10:38:16.102 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - -
+2023-12-11 10:38:16.110 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 10:38:16.115 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByBayID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]] GetSummaryDetailsByBayID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 10:38:17.307 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse'.
+2023-12-11 10:38:17.309 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API) in 1192.8571ms
+2023-12-11 10:38:17.316 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 10:38:17.317 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - - - 200 - application/json;+charset=utf-8 1214.5611ms

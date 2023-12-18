@@ -1,0 +1,104 @@
+2023-12-11 11:29:55.506 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - -
+2023-12-11 11:29:55.511 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:29:55.514 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByBayID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]] GetSummaryDetailsByBayID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:29:59.978 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse'.
+2023-12-11 11:29:59.981 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API) in 4463.7905ms
+2023-12-11 11:29:59.983 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:29:59.985 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - - - 200 - application/json;+charset=utf-8 4478.9534ms
+2023-12-11 11:30:09.859 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetBayDetailsByPhaseID/1 - -
+2023-12-11 11:30:09.861 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 11:30:09.867 +05:30 [INF] Route matched with {action = "GetBayDetailsByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.BayResponse]]] GetBayDetailsByPhaseID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:30:11.281 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.BayResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-11 11:30:11.283 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API) in 1413.6647ms
+2023-12-11 11:30:11.286 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 11:30:11.287 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetBayDetailsByPhaseID/1 - - - 200 - application/json;+charset=utf-8 1428.3796ms
+2023-12-11 11:30:39.776 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetGlobalSearch?searchRequest=Alpha - -
+2023-12-11 11:30:39.789 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetGlobalSearch (SmartMonitoringSystem.API)'
+2023-12-11 11:30:39.796 +05:30 [INF] Route matched with {action = "GetGlobalSearch", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.NotificationResponse]]] GetGlobalSearch(System.String) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:30:39.908 +05:30 [ERR] Exception occurred in search
+2023-12-11 11:30:39.910 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.NotificationResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-11 11:30:39.913 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetGlobalSearch (SmartMonitoringSystem.API) in 113.588ms
+2023-12-11 11:30:39.916 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetGlobalSearch (SmartMonitoringSystem.API)'
+2023-12-11 11:30:39.916 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetGlobalSearch?searchRequest=Alpha - - - 200 - application/json;+charset=utf-8 140.8218ms
+2023-12-11 11:36:15.131 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D3 application/json 292
+2023-12-11 11:36:15.137 +05:30 [INF] CORS policy execution failed.
+2023-12-11 11:36:15.138 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-11 11:36:15.140 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:36:15.145 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-11 11:36:20.752 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-12-11 11:36:20.758 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 5610.6366ms
+2023-12-11 11:36:20.766 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:36:20.767 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D3 application/json 292 - 200 - application/json;+charset=utf-8 5636.3914ms
+2023-12-11 11:37:37.879 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D3 application/json 152
+2023-12-11 11:37:37.890 +05:30 [INF] CORS policy execution failed.
+2023-12-11 11:37:37.892 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-11 11:37:37.893 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-12-11 11:37:37.902 +05:30 [INF] Route matched with {action = "EditDevice", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] EditDevice(SmartMonitoringSystem.Core.Domain.DBEntities.EditDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-11 11:37:37.924 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-12-11 11:37:37.928 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API) in 21.9781ms
+2023-12-11 11:37:37.935 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-12-11 11:37:37.937 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D3 application/json 152 - 200 - application/json;+charset=utf-8 58.1192ms
+2023-12-11 11:37:58.085 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-11 11:37:58.095 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-11 11:37:58.105 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-11 11:37:58.122 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.DeviceResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-11 11:37:58.127 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API) in 18.2529ms
+2023-12-11 11:37:58.129 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-11 11:37:58.130 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - - - 200 - application/json;+charset=utf-8 44.7806ms
+2023-12-11 11:38:15.352 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7191/api/Device/DeleteDevice/1/D3 - -
+2023-12-11 11:38:15.355 +05:30 [INF] CORS policy execution failed.
+2023-12-11 11:38:15.357 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-11 11:38:15.358 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.DeleteDevice (SmartMonitoringSystem.API)'
+2023-12-11 11:38:15.363 +05:30 [INF] Route matched with {action = "DeleteDevice", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteDevice(Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-11 11:38:15.385 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2023-12-11 11:38:15.388 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.DeleteDevice (SmartMonitoringSystem.API) in 23.3688ms
+2023-12-11 11:38:15.389 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.DeleteDevice (SmartMonitoringSystem.API)'
+2023-12-11 11:38:15.390 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7191/api/Device/DeleteDevice/1/D3 - - - 204 - - 37.8892ms
+2023-12-11 11:41:29.403 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 92
+2023-12-11 11:41:29.409 +05:30 [INF] CORS policy execution failed.
+2023-12-11 11:41:29.410 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-11 11:41:29.411 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 11:41:29.412 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:41:56.944 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-12-11 11:41:56.954 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 27540.5249ms
+2023-12-11 11:41:56.964 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 11:41:56.967 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 92 - 200 - application/json;+charset=utf-8 27564.4878ms
+2023-12-11 11:44:42.912 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 92
+2023-12-11 11:44:42.917 +05:30 [INF] CORS policy execution failed.
+2023-12-11 11:44:42.918 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-11 11:44:42.919 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 11:44:42.920 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:44:43.868 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-12-11 11:44:43.870 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 949.1319ms
+2023-12-11 11:44:43.875 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 11:44:43.875 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 92 - 200 - application/json;+charset=utf-8 963.3524ms
+2023-12-11 11:49:29.468 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - -
+2023-12-11 11:49:29.475 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:49:29.476 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByBayID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]] GetSummaryDetailsByBayID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:49:29.483 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse'.
+2023-12-11 11:49:29.486 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API) in 6.9079ms
+2023-12-11 11:49:29.494 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:49:29.496 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - - - 200 - application/json;+charset=utf-8 27.2285ms
+2023-12-11 11:56:47.752 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - -
+2023-12-11 11:56:47.758 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:56:47.758 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByBayID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]] GetSummaryDetailsByBayID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:56:47.769 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse'.
+2023-12-11 11:56:47.770 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API) in 10.189ms
+2023-12-11 11:56:47.774 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:56:47.775 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - - - 200 - application/json;+charset=utf-8 23.5458ms
+2023-12-11 11:56:53.303 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - -
+2023-12-11 11:56:53.304 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:56:53.305 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByBayID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]] GetSummaryDetailsByBayID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:56:53.309 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse'.
+2023-12-11 11:56:53.310 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API) in 4.8868ms
+2023-12-11 11:56:53.311 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-11 11:56:53.312 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - - - 200 - application/json;+charset=utf-8 9.3437ms
+2023-12-11 11:57:00.106 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 92
+2023-12-11 11:57:00.107 +05:30 [INF] CORS policy execution failed.
+2023-12-11 11:57:00.108 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-11 11:57:00.109 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 11:57:00.110 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-11 11:57:17.251 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-12-11 11:57:17.254 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 17142.8872ms
+2023-12-11 11:57:17.255 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-12-11 11:57:17.255 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 92 - 200 - application/json;+charset=utf-8 17149.2385ms

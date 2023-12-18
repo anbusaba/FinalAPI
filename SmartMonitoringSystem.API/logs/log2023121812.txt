@@ -1,0 +1,61 @@
+2023-12-18 12:25:35.252 +05:30 [INF] User profile is available. Using 'C:\Users\sabapathi.shanmugam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-18 12:25:35.393 +05:30 [INF] Start processing HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 12:25:35.400 +05:30 [INF] Sending HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 12:25:35.859 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-18 12:25:35.875 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-18 12:25:35.880 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-18 12:25:35.881 +05:30 [INF] Hosting environment: Development
+2023-12-18 12:25:35.883 +05:30 [INF] Content root path: D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-18 12:25:36.407 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - -
+2023-12-18 12:25:36.523 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 12:25:36.551 +05:30 [INF] Route matched with {action = "GetNotifications", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.NotificationResponse]]] GetNotifications() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 12:25:36.859 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.NotificationResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 12:25:37.010 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API) in 449.364ms
+2023-12-18 12:25:37.016 +05:30 [INF] Received HTTP response headers after 1608.8987ms - 200
+2023-12-18 12:25:37.017 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 12:25:37.019 +05:30 [INF] End processing HTTP request after 1640.4718ms - 200
+2023-12-18 12:25:37.031 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - - - 200 - application/json;+charset=utf-8 628.5359ms
+2023-12-18 12:25:40.296 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-18 12:25:41.656 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 1359.9593ms
+2023-12-18 12:25:41.813 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-18 12:25:41.815 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-18 12:25:41.853 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 38.2005ms
+2023-12-18 12:25:43.064 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1250.7071ms
+2023-12-18 12:25:44.981 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-18 12:25:45.454 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 473.0763ms
+2023-12-18 12:25:48.375 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-18 12:25:48.379 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 3.7288ms
+2023-12-18 12:25:48.429 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-18 12:25:48.474 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 44.4608ms
+2023-12-18 12:25:48.816 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-18 12:25:48.839 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 23.4827ms
+2023-12-18 12:25:58.917 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-18 12:25:58.950 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 32.8984ms
+2023-12-18 12:25:58.975 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-18 12:25:58.976 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-18 12:25:58.991 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 14.9515ms
+2023-12-18 12:25:59.075 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 99.1265ms
+2023-12-18 12:25:59.177 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-18 12:25:59.225 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 48.1123ms
+2023-12-18 12:40:35.351 +05:30 [INF] Start processing HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 12:40:35.359 +05:30 [INF] Sending HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 12:40:35.380 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - -
+2023-12-18 12:40:35.391 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 12:40:35.394 +05:30 [INF] Route matched with {action = "GetNotifications", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.NotificationResponse]]] GetNotifications() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 12:40:35.432 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.NotificationResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 12:40:35.437 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API) in 38.0914ms
+2023-12-18 12:40:35.437 +05:30 [INF] Received HTTP response headers after 76.4941ms - 200
+2023-12-18 12:40:35.439 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 12:40:35.440 +05:30 [INF] End processing HTTP request after 89.4916ms - 200
+2023-12-18 12:40:35.443 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - - - 200 - application/json;+charset=utf-8 63.2823ms
+2023-12-18 12:55:35.368 +05:30 [INF] Start processing HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 12:55:35.370 +05:30 [INF] Sending HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 12:55:35.389 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - -
+2023-12-18 12:55:35.390 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 12:55:35.391 +05:30 [INF] Route matched with {action = "GetNotifications", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.NotificationResponse]]] GetNotifications() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 12:55:35.409 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.NotificationResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 12:55:35.411 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API) in 19.3752ms
+2023-12-18 12:55:35.412 +05:30 [INF] Received HTTP response headers after 40.1505ms - 200
+2023-12-18 12:55:35.416 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 12:55:35.417 +05:30 [INF] End processing HTTP request after 49.3814ms - 200
+2023-12-18 12:55:35.418 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - - - 200 - application/json;+charset=utf-8 28.9459ms

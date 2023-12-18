@@ -1,0 +1,10 @@
+2023-11-24 15:44:28.224 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/login application/json 67
+2023-11-24 15:44:28.239 +05:30 [INF] CORS policy execution failed.
+2023-11-24 15:44:28.252 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 15:44:28.254 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-11-24 15:44:28.256 +05:30 [INF] Route matched with {action = "PostLogin", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.Identity.ApplicationUser]] PostLogin(SmartMonitoringSystem.Core.DTO.LoginDto) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-11-24 15:44:28.270 +05:30 [INF] Reached PostLogin method
+2023-11-24 15:44:31.697 +05:30 [INF] Executed DbCommand (18ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenExpirationDatatime], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0

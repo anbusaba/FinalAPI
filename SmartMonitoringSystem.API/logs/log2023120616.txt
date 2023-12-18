@@ -1,0 +1,64 @@
+2023-12-06 16:18:45.558 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-06 16:18:45.875 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:18:45.899 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-06 16:19:00.590 +05:30 [ERR] Exception occurred in GetAllDevices
+2023-12-06 16:19:00.606 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-06 16:19:00.618 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API) in 14711.8813ms
+2023-12-06 16:19:00.623 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:19:00.626 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - - - 200 - application/json;+charset=utf-8 15067.7614ms
+2023-12-06 16:19:56.087 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-06 16:19:56.098 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:19:56.107 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-06 16:20:55.906 +05:30 [ERR] Exception occurred in GetAllDevices
+2023-12-06 16:20:55.908 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-06 16:20:55.910 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API) in 59801.2923ms
+2023-12-06 16:20:55.914 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:20:55.916 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - - - 200 - application/json;+charset=utf-8 59829.8057ms
+2023-12-06 16:37:36.093 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-06 16:37:36.102 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:37:36.104 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-06 16:37:49.168 +05:30 [ERR] Exception occurred in GetAllDevices
+2023-12-06 16:37:49.171 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-06 16:37:49.172 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API) in 13066.6588ms
+2023-12-06 16:37:49.173 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:37:49.175 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - - - 200 - application/json;+charset=utf-8 13081.8292ms
+2023-12-06 16:48:01.898 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-06 16:48:01.900 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:48:01.902 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-06 16:48:12.569 +05:30 [ERR] Exception occurred in GetAllDevices
+2023-12-06 16:48:12.573 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-06 16:48:12.575 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API) in 10671.4999ms
+2023-12-06 16:48:12.576 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:48:12.577 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - - - 200 - application/json;+charset=utf-8 10679.2935ms
+2023-12-06 16:48:14.982 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-06 16:48:14.984 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:48:14.987 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-06 16:55:30.931 +05:30 [INF] User profile is available. Using 'C:\Users\lokes\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-06 16:55:31.217 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-12-06 16:55:31.306 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-06 16:55:31.308 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-06 16:55:31.311 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-06 16:55:31.313 +05:30 [INF] Hosting environment: Development
+2023-12-06 16:55:31.314 +05:30 [INF] Content root path: C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-06 16:55:32.006 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-12-06 16:55:32.244 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 242.6715ms
+2023-12-06 16:55:32.254 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-06 16:55:32.420 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-12-06 16:55:32.421 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-12-06 16:55:32.420 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-12-06 16:55:32.435 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-06 16:55:32.446 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-06 16:55:32.460 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 204.9956ms
+2023-12-06 16:55:32.491 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 13786 application/javascript;+charset=utf-8 46.1709ms
+2023-12-06 16:55:32.656 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-12-06 16:55:32.656 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-12-06 16:55:32.666 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 244.9321ms
+2023-12-06 16:55:32.669 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 248.7170ms
+2023-12-06 16:55:32.698 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-12-06 16:55:32.704 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 283.4219ms
+2023-12-06 16:55:32.794 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 361.1455ms
+2023-12-06 16:55:33.053 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-06 16:55:33.326 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 272.7283ms
+2023-12-06 16:55:59.782 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-06 16:55:59.932 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 16:55:59.960 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).

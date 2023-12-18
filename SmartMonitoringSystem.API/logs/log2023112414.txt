@@ -1,0 +1,31 @@
+2023-11-24 14:05:49.885 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7191/api/Device/DeleteDevice/2/D2 - -
+2023-11-24 14:05:49.927 +05:30 [INF] CORS policy execution failed.
+2023-11-24 14:05:49.931 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 14:05:49.939 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.DeleteDevice (SmartMonitoringSystem.API)'
+2023-11-24 14:05:49.956 +05:30 [INF] Route matched with {action = "DeleteDevice", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteDevice(Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 14:06:58.793 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2023-11-24 14:06:58.795 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.DeleteDevice (SmartMonitoringSystem.API) in 68825.3127ms
+2023-11-24 14:06:58.797 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.DeleteDevice (SmartMonitoringSystem.API)'
+2023-11-24 14:06:58.800 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7191/api/Device/DeleteDevice/2/D2 - - - 204 - - 68913.7968ms
+2023-11-24 14:47:37.641 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/login application/json 67
+2023-11-24 14:47:37.649 +05:30 [INF] CORS policy execution failed.
+2023-11-24 14:47:37.650 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 14:47:37.651 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-11-24 14:47:37.667 +05:30 [INF] Route matched with {action = "PostLogin", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.Identity.ApplicationUser]] PostLogin(SmartMonitoringSystem.Core.DTO.LoginDto) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-11-24 14:47:37.967 +05:30 [INF] Reached PostLogin method
+2023-11-24 14:47:49.977 +05:30 [INF] Executed DbCommand (55ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenExpirationDatatime], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2023-11-24 14:48:15.669 +05:30 [INF] JLogin failed due to incorrect credential
+2023-11-24 14:48:15.676 +05:30 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2023-11-24 14:48:15.704 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API) in 38033.6879ms
+2023-11-24 14:48:15.706 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-11-24 14:48:15.726 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/login application/json 67 - 500 - application/problem+json;+charset=utf-8 38084.8178ms
+2023-11-24 14:56:10.084 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetAllPhases - -
+2023-11-24 14:56:10.088 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetAllPhases (SmartMonitoringSystem.API)'
+2023-11-24 14:56:10.095 +05:30 [INF] Route matched with {action = "GetAllPhases", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.PhaseResponse]]] GetAllPhases() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 14:56:10.149 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.PhaseResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-24 14:56:10.155 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetAllPhases (SmartMonitoringSystem.API) in 56.3819ms
+2023-11-24 14:56:10.157 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetAllPhases (SmartMonitoringSystem.API)'
+2023-11-24 14:56:10.158 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetAllPhases - - - 200 - application/json;+charset=utf-8 73.6618ms

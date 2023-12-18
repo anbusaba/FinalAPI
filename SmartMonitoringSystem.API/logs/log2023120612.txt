@@ -1,0 +1,31 @@
+2023-12-06 12:59:13.483 +05:30 [INF] User profile is available. Using 'C:\Users\lokes\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-06 12:59:13.553 +05:30 [INF] Creating key {502652d0-27fc-455a-8359-2e1e583b39c7} with creation date 2023-12-06 07:29:13Z, activation date 2023-12-06 07:29:13Z, and expiration date 2024-03-05 07:29:13Z.
+2023-12-06 12:59:13.578 +05:30 [INF] Writing data to file 'C:\Users\lokes\AppData\Local\ASP.NET\DataProtection-Keys\key-502652d0-27fc-455a-8359-2e1e583b39c7.xml'.
+2023-12-06 12:59:14.102 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-12-06 12:59:14.199 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-06 12:59:14.201 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-06 12:59:14.204 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-06 12:59:14.206 +05:30 [INF] Hosting environment: Development
+2023-12-06 12:59:14.207 +05:30 [INF] Content root path: C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-06 12:59:27.775 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-12-06 12:59:28.031 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 258.1830ms
+2023-12-06 12:59:28.040 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-06 12:59:28.183 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 142.1565ms
+2023-12-06 12:59:28.203 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-12-06 12:59:28.206 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-12-06 12:59:28.206 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-12-06 12:59:28.206 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-06 12:59:28.208 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-06 12:59:28.234 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 13786 application/javascript;+charset=utf-8 28.4442ms
+2023-12-06 12:59:28.291 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-12-06 12:59:28.291 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-12-06 12:59:28.294 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 91.4159ms
+2023-12-06 12:59:28.297 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 90.7219ms
+2023-12-06 12:59:28.309 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-12-06 12:59:28.311 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 105.1366ms
+2023-12-06 12:59:28.344 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 137.9649ms
+2023-12-06 12:59:28.565 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-06 12:59:28.593 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/favicon-32x32.png - -
+2023-12-06 12:59:28.595 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-12-06 12:59:28.598 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/favicon-32x32.png - - - 200 628 image/png 5.1447ms
+2023-12-06 12:59:28.729 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 164.5153ms

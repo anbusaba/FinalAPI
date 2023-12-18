@@ -1,0 +1,220 @@
+2023-12-15 09:20:45.589 +05:30 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-12-15 09:20:45.631 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2023-12-15 09:20:45.634 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-12-15 09:20:45.635 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2023-12-15 09:20:45.650 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2023-12-15 09:20:45.664 +05:30 [INF] Applying migration '20231206054305_InitialMigration'.
+2023-12-15 09:20:45.740 +05:30 [ERR] Failed executing DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Admin] (
+    [UserID] int NOT NULL IDENTITY,
+    [UserName] nvarchar(max) NULL,
+    [EmailID] nvarchar(max) NULL,
+    [Password] nvarchar(max) NULL,
+    CONSTRAINT [PK_Admin] PRIMARY KEY ([UserID])
+);
+2023-12-15 09:21:39.864 +05:30 [INF] Executed DbCommand (222ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [SmartMonitoring2];
+2023-12-15 09:21:39.953 +05:30 [INF] Executed DbCommand (62ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [SmartMonitoring2] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2023-12-15 09:21:39.969 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-12-15 09:21:40.017 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2023-12-15 09:21:40.018 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-12-15 09:21:40.030 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2023-12-15 09:21:40.034 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2023-12-15 09:21:40.045 +05:30 [INF] Applying migration '20231206054305_InitialMigration'.
+2023-12-15 09:21:40.093 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Admin] (
+    [UserID] int NOT NULL IDENTITY,
+    [UserName] nvarchar(max) NULL,
+    [EmailID] nvarchar(max) NULL,
+    [Password] nvarchar(max) NULL,
+    CONSTRAINT [PK_Admin] PRIMARY KEY ([UserID])
+);
+2023-12-15 09:21:40.096 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] uniqueidentifier NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2023-12-15 09:21:40.099 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] uniqueidentifier NOT NULL,
+    [PersonName] nvarchar(max) NULL,
+    [RefreshToken] nvarchar(max) NULL,
+    [RefreshTokenExpirationDatatime] datetime2 NOT NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+2023-12-15 09:21:40.100 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [BayInfo] (
+    [BayID] int NOT NULL IDENTITY,
+    [BayName] nvarchar(max) NULL,
+    [Phase] int NOT NULL,
+    [OrganisationID] int NOT NULL,
+    [Floor] nvarchar(max) NULL,
+    CONSTRAINT [PK_BayInfo] PRIMARY KEY ([BayID])
+);
+2023-12-15 09:21:40.103 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [bayLiveData] (
+    [bayLiveId] int NOT NULL IDENTITY,
+    [bayID] int NOT NULL,
+    [DateTime] datetime2 NOT NULL,
+    [Temperature] int NOT NULL,
+    [Humidity] int NOT NULL,
+    CONSTRAINT [PK_bayLiveData] PRIMARY KEY ([bayLiveId])
+);
+2023-12-15 09:21:40.108 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [DeviceInfo] (
+    [DeviceInfoId] int NOT NULL IDENTITY,
+    [BayID] int NOT NULL,
+    [DeviceID] nvarchar(max) NULL,
+    [DeviceName] nvarchar(max) NULL,
+    [ConnectionType] nvarchar(max) NULL,
+    [AuthenticationToken] nvarchar(max) NULL,
+    [Hardware] nvarchar(max) NULL,
+    [Description] nvarchar(max) NULL,
+    [Status] nvarchar(max) NULL,
+    CONSTRAINT [PK_DeviceInfo] PRIMARY KEY ([DeviceInfoId])
+);
+2023-12-15 09:21:40.110 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Organisation] (
+    [OrganisationId] int NOT NULL IDENTITY,
+    [OrganisationName] nvarchar(max) NULL,
+    [Location] nvarchar(max) NULL,
+    CONSTRAINT [PK_Organisation] PRIMARY KEY ([OrganisationId])
+);
+2023-12-15 09:21:40.113 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoleClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [RoleId] uniqueidentifier NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoleClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetRoleClaims_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE
+);
+2023-12-15 09:21:40.115 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [UserId] uniqueidentifier NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2023-12-15 09:21:40.118 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserLogins] (
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [ProviderKey] nvarchar(450) NOT NULL,
+    [ProviderDisplayName] nvarchar(max) NULL,
+    [UserId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY ([LoginProvider], [ProviderKey]),
+    CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2023-12-15 09:21:40.121 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserRoles] (
+    [UserId] uniqueidentifier NOT NULL,
+    [RoleId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY ([UserId], [RoleId]),
+    CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2023-12-15 09:21:40.123 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserTokens] (
+    [UserId] uniqueidentifier NOT NULL,
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [Name] nvarchar(450) NOT NULL,
+    [Value] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY ([UserId], [LoginProvider], [Name]),
+    CONSTRAINT [FK_AspNetUserTokens_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2023-12-15 09:21:40.126 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetRoleClaims_RoleId] ON [AspNetRoleClaims] ([RoleId]);
+2023-12-15 09:21:40.128 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [RoleNameIndex] ON [AspNetRoles] ([NormalizedName]) WHERE [NormalizedName] IS NOT NULL;
+2023-12-15 09:21:40.130 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserClaims_UserId] ON [AspNetUserClaims] ([UserId]);
+2023-12-15 09:21:40.131 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserLogins_UserId] ON [AspNetUserLogins] ([UserId]);
+2023-12-15 09:21:40.132 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserRoles_RoleId] ON [AspNetUserRoles] ([RoleId]);
+2023-12-15 09:21:40.133 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [EmailIndex] ON [AspNetUsers] ([NormalizedEmail]);
+2023-12-15 09:21:40.135 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [UserNameIndex] ON [AspNetUsers] ([NormalizedUserName]) WHERE [NormalizedUserName] IS NOT NULL;
+2023-12-15 09:21:40.139 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20231206054305_InitialMigration', N'7.0.12');
+2023-12-15 09:21:40.145 +05:30 [INF] Applying migration '20231215034955_version5'.
+2023-12-15 09:21:40.167 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [DeviceInfo] ADD [UserId] int NOT NULL DEFAULT 0;
+2023-12-15 09:21:40.168 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20231215034955_version5', N'7.0.12');
+2023-12-15 09:44:20.706 +05:30 [INF] User profile is available. Using 'C:\Users\sabapathi.shanmugam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-15 09:44:20.786 +05:30 [INF] Start processing HTTP request GET https://localhost:44370/api/Dashboard/GetNotifications
+2023-12-15 09:44:20.790 +05:30 [INF] Sending HTTP request GET https://localhost:44370/api/Dashboard/GetNotifications
+2023-12-15 09:44:21.076 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-15 09:44:21.078 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-15 09:44:21.081 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-15 09:44:21.082 +05:30 [INF] Hosting environment: Development
+2023-12-15 09:44:21.084 +05:30 [INF] Content root path: D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-15 09:44:22.669 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-15 09:44:23.837 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 1169.4602ms
+2023-12-15 09:44:23.888 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-15 09:44:23.890 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-15 09:44:23.907 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 18.3628ms
+2023-12-15 09:44:24.007 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 117.2460ms
+2023-12-15 09:44:24.075 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-15 09:44:24.258 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 182.9966ms
+2023-12-15 09:50:36.058 +05:30 [INF] User profile is available. Using 'C:\Users\sabapathi.shanmugam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-15 09:50:36.159 +05:30 [INF] Start processing HTTP request GET https://localhost:44370/api/Dashboard/GetNotifications
+2023-12-15 09:50:36.164 +05:30 [INF] Sending HTTP request GET https://localhost:44370/api/Dashboard/GetNotifications
+2023-12-15 09:50:36.441 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-15 09:50:36.443 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-15 09:50:36.447 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-15 09:50:36.450 +05:30 [INF] Hosting environment: Development
+2023-12-15 09:50:36.452 +05:30 [INF] Content root path: D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-15 09:50:38.098 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-15 09:50:38.473 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 378.2946ms
+2023-12-15 09:50:38.509 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-15 09:50:38.509 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-15 09:50:38.533 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 23.6867ms
+2023-12-15 09:50:38.647 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 137.8422ms
+2023-12-15 09:50:38.739 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-15 09:50:38.958 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 219.1694ms

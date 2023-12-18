@@ -1,0 +1,8 @@
+2023-12-06 13:01:13.231 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-06 13:01:13.819 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 13:01:13.852 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-06 13:49:26.608 +05:30 [ERR] Exception occurred in GetAllDevices
+2023-12-06 13:49:26.618 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-06 13:49:26.634 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API) in 2892775.2628ms
+2023-12-06 13:49:26.638 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-06 13:49:26.640 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - - - 0 - application/json;+charset=utf-8 2893408.8830ms

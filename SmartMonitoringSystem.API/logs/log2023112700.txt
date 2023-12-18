@@ -1,0 +1,191 @@
+2023-11-27 00:40:33.288 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-27 00:40:33.430 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-27 00:40:33.457 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-27 00:40:33.458 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-27 00:40:33.460 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-27 00:40:33.461 +05:30 [INF] Hosting environment: Development
+2023-11-27 00:40:33.462 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-27 00:40:34.542 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-27 00:40:34.587 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 46.1740ms
+2023-11-27 00:40:34.599 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-27 00:40:34.789 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-27 00:40:34.801 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-27 00:40:34.802 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 202.7629ms
+2023-11-27 00:40:34.802 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-27 00:40:34.803 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-27 00:40:34.805 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-27 00:40:34.830 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 26.0675ms
+2023-11-27 00:40:34.836 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-27 00:40:34.842 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-27 00:40:34.843 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 54.0455ms
+2023-11-27 00:40:34.843 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 41.8532ms
+2023-11-27 00:40:34.869 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-27 00:40:34.887 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 82.1728ms
+2023-11-27 00:40:34.888 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 86.1866ms
+2023-11-27 00:40:35.067 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-27 00:40:35.195 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 127.5853ms
+2023-11-27 00:41:58.917 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/login application/json 67
+2023-11-27 00:41:58.945 +05:30 [INF] CORS policy execution failed.
+2023-11-27 00:41:58.946 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-27 00:41:59.028 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-11-27 00:41:59.045 +05:30 [INF] Route matched with {action = "PostLogin", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.Identity.ApplicationUser]] PostLogin(SmartMonitoringSystem.Core.DTO.LoginDto) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-11-27 00:41:59.079 +05:30 [INF] Reached PostLogin method
+2023-11-27 00:45:03.871 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-27 00:45:04.961 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-27 00:45:04.999 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-27 00:45:05.002 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-27 00:45:05.006 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-27 00:45:05.010 +05:30 [INF] Hosting environment: Development
+2023-11-27 00:45:05.011 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-27 00:45:07.255 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-27 00:45:07.320 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 70.6318ms
+2023-11-27 00:45:07.355 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-27 00:45:07.512 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 157.0725ms
+2023-11-27 00:45:07.516 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-27 00:45:07.516 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-27 00:45:07.516 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-27 00:45:07.518 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-27 00:45:07.527 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-27 00:45:07.540 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 22.1720ms
+2023-11-27 00:45:07.547 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-27 00:45:07.553 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 36.9036ms
+2023-11-27 00:45:07.561 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-27 00:45:07.574 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 58.4113ms
+2023-11-27 00:45:07.576 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-27 00:45:07.579 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 63.2263ms
+2023-11-27 00:45:07.578 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.6227ms
+2023-11-27 00:45:07.714 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-27 00:45:07.973 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 259.6428ms
+2023-11-27 00:45:39.033 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/login application/json 67
+2023-11-27 00:45:39.075 +05:30 [INF] CORS policy execution failed.
+2023-11-27 00:45:39.076 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-27 00:45:39.120 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-11-27 00:45:39.139 +05:30 [INF] Route matched with {action = "PostLogin", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.Identity.ApplicationUser]] PostLogin(SmartMonitoringSystem.Core.DTO.LoginDto) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-11-27 00:45:39.170 +05:30 [INF] Reached PostLogin method
+2023-11-27 00:45:42.555 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API) in 3410.6989ms
+2023-11-27 00:45:42.558 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-11-27 00:45:42.560 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'sp_IsVaildUser'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__208_1(IAsyncResult result)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at SmartMonitoringSystem.Infrastructure.Repository.LoginRepository.LoginUser(LoginDto loginDTO) in D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\Repository\LoginRepository.cs:line 33
+   at SmartMonitoringSystem.Core.Services.JwtService.LoginUser(LoginDto loginDTO) in D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\Services\JwtService.cs:line 86
+   at SmartMonitoringSystem.API.Controllers.LoginController.PostLogin(LoginDto loginDTO) in D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\Controllers\LoginController.cs:line 39
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:78030ca7-1252-4396-ab96-203c6ace17c5
+Error Number:2812,State:62,Class:16
+2023-11-27 00:45:42.592 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/login application/json 67 - 500 - text/plain;+charset=utf-8 3559.7939ms
+2023-11-27 00:49:06.017 +05:30 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-11-27 00:49:06.057 +05:30 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2023-11-27 00:49:06.060 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-11-27 00:49:06.061 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2023-11-27 00:49:06.072 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2023-11-27 00:49:06.081 +05:30 [INF] Applying migration '20231126191714_V4'.
+2023-11-27 00:49:06.108 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20231126191714_V4', N'7.0.12');
+2023-11-27 00:51:12.649 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-27 00:51:12.792 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-27 00:51:12.832 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-27 00:51:12.835 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-27 00:51:12.837 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-27 00:51:12.838 +05:30 [INF] Hosting environment: Development
+2023-11-27 00:51:12.838 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-27 00:51:16.248 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-27 00:51:16.313 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 64.9326ms
+2023-11-27 00:51:16.328 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-27 00:51:16.480 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 152.0170ms
+2023-11-27 00:51:16.484 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-27 00:51:16.484 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-27 00:51:16.485 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-27 00:51:16.486 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-27 00:51:16.498 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-27 00:51:16.507 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 20.3965ms
+2023-11-27 00:51:16.516 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-27 00:51:16.517 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 33.0743ms
+2023-11-27 00:51:16.519 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-27 00:51:16.520 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 35.8160ms
+2023-11-27 00:51:16.699 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-27 00:51:16.701 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 202.2058ms
+2023-11-27 00:51:16.701 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 216.5584ms
+2023-11-27 00:51:16.954 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-27 00:51:17.048 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 94.1590ms
+2023-11-27 00:51:54.220 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/login application/json 67
+2023-11-27 00:51:54.253 +05:30 [INF] CORS policy execution failed.
+2023-11-27 00:51:54.254 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-27 00:51:54.301 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-11-27 00:51:54.323 +05:30 [INF] Route matched with {action = "PostLogin", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.Identity.ApplicationUser]] PostLogin(SmartMonitoringSystem.Core.DTO.LoginDto) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-11-27 00:51:54.367 +05:30 [INF] Reached PostLogin method
+2023-11-27 00:51:57.442 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API) in 3112.1393ms
+2023-11-27 00:51:57.446 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-11-27 00:51:57.448 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'sp_IsVaildUser'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__208_1(IAsyncResult result)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at SmartMonitoringSystem.Infrastructure.Repository.LoginRepository.LoginUser(LoginDto loginDTO) in D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\Repository\LoginRepository.cs:line 33
+   at SmartMonitoringSystem.Core.Services.JwtService.LoginUser(LoginDto loginDTO) in D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\Services\JwtService.cs:line 86
+   at SmartMonitoringSystem.API.Controllers.LoginController.PostLogin(LoginDto loginDTO) in D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\Controllers\LoginController.cs:line 39
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:c4d8c792-312f-4270-8c4e-67979885ef4d
+Error Number:2812,State:62,Class:16
+2023-11-27 00:51:57.482 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/login application/json 67 - 500 - text/plain;+charset=utf-8 3261.6644ms
+2023-11-27 00:59:59.934 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.

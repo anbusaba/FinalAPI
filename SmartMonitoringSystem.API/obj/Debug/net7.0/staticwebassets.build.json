@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2wY3WgE864yPb+6UrFEdAR/my5Lhdd6iiKg7SGNUI5Q=",
+  "Source": "SmartMonitoringSystem.API",
+  "BasePath": "_content/SmartMonitoringSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

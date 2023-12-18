@@ -1,0 +1,503 @@
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.exe
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.deps.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.runtimeconfig.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.AssemblyReference.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfoInputs.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfo.cs
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.SmartMonitoringSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartMonitoringSystem.API.props
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartMonitoringSystem.API.props
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartMonitoringSystem.API.props
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\scopedcss\bundle\SmartMonitoringSystem.API.styles.css
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CopyComplete
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\refint\SmartMonitoringSystem.API.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.genruntimeconfig.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\ref\SmartMonitoringSystem.API.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.exe
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.deps.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.runtimeconfig.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Dapper.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.AssemblyReference.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfoInputs.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfo.cs
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.SmartMonitoringSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartMonitoringSystem.API.props
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartMonitoringSystem.API.props
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartMonitoringSystem.API.props
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\scopedcss\bundle\SmartMonitoringSystem.API.styles.css
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CopyComplete
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\refint\SmartMonitoringSystem.API.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.genruntimeconfig.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\ref\SmartMonitoringSystem.API.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.exe
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.deps.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.runtimeconfig.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Core.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Dapper.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Humanizer.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.AssemblyReference.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfoInputs.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfo.cs
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CoreCompileInputs.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.SmartMonitoringSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartMonitoringSystem.API.props
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartMonitoringSystem.API.props
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartMonitoringSystem.API.props
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\scopedcss\bundle\SmartMonitoringSystem.API.styles.css
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CopyComplete
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\refint\SmartMonitoringSystem.API.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.genruntimeconfig.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\ref\SmartMonitoringSystem.API.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.exe
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.deps.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.runtimeconfig.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Dapper.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.AssemblyReference.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfoInputs.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfo.cs
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.SmartMonitoringSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartMonitoringSystem.API.props
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartMonitoringSystem.API.props
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartMonitoringSystem.API.props
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\scopedcss\bundle\SmartMonitoringSystem.API.styles.css
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CopyComplete
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\refint\SmartMonitoringSystem.API.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.genruntimeconfig.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\ref\SmartMonitoringSystem.API.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.Development.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\appsettings.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.exe
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.deps.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.runtimeconfig.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.API.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Core.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Azure.Identity.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Dapper.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Humanizer.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.AssemblyReference.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfoInputs.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.AssemblyInfo.cs
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CoreCompileInputs.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.MvcApplicationPartsAssemblyInfo.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.SmartMonitoringSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.build.SmartMonitoringSystem.API.props
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SmartMonitoringSystem.API.props
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SmartMonitoringSystem.API.props
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\scopedcss\bundle\SmartMonitoringSystem.API.styles.css
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.csproj.CopyComplete
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\refint\SmartMonitoringSystem.API.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\SmartMonitoringSystem.API.genruntimeconfig.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\obj\Debug\net7.0\ref\SmartMonitoringSystem.API.dll

@@ -1,0 +1,495 @@
+2023-11-24 13:00:48.156 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetBayDetailsByPhaseID/1 - -
+2023-11-24 13:00:48.215 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:00:48.231 +05:30 [INF] Route matched with {action = "GetBayDetailsByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.BayResponse]]] GetBayDetailsByPhaseID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:00:59.703 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.BayResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-24 13:00:59.710 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API) in 11475.6462ms
+2023-11-24 13:00:59.712 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:00:59.715 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetBayDetailsByPhaseID/1 - - - 200 - application/json;+charset=utf-8 11558.4474ms
+2023-11-24 13:04:51.815 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 91
+2023-11-24 13:04:51.830 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:04:51.832 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:04:51.835 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:04:51.848 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:07:07.763 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:07:08.203 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:07:08.422 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:07:08.429 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:07:08.433 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:07:08.435 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:07:08.436 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:07:12.617 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:07:12.716 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 102.3554ms
+2023-11-24 13:07:12.742 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:07:13.382 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 639.5944ms
+2023-11-24 13:07:13.454 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:07:13.455 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:07:13.455 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:07:14.268 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:07:14.268 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:07:14.711 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:07:14.712 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 1256.6476ms
+2023-11-24 13:07:14.713 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 1257.0396ms
+2023-11-24 13:07:14.716 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 1260.6804ms
+2023-11-24 13:07:14.765 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:07:14.773 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 8.2038ms
+2023-11-24 13:07:15.075 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:07:15.107 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 31.9296ms
+2023-11-24 13:07:15.784 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:07:16.174 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 388.7413ms
+2023-11-24 13:07:44.769 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 94
+2023-11-24 13:07:44.891 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:07:44.892 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:07:45.030 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:07:45.105 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:08:51.617 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:08:52.129 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:08:52.205 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:08:52.210 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:08:52.216 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:08:52.218 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:08:52.219 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:08:56.356 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:08:56.634 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 278.8705ms
+2023-11-24 13:08:56.652 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:08:57.244 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:08:57.266 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 613.4578ms
+2023-11-24 13:08:57.258 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:08:57.275 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:08:57.294 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:08:57.301 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:08:57.301 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:08:57.302 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 27.8764ms
+2023-11-24 13:08:57.304 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 59.9515ms
+2023-11-24 13:08:57.305 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:08:57.316 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 11.2791ms
+2023-11-24 13:08:57.318 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:08:57.324 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 66.1373ms
+2023-11-24 13:08:57.339 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.2692ms
+2023-11-24 13:08:57.944 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:08:58.380 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 436.0111ms
+2023-11-24 13:09:37.026 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 94
+2023-11-24 13:09:37.112 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:09:37.115 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:09:37.252 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:09:37.322 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:10:01.085 +05:30 [ERR] Exception occurred in creating a bay
+2023-11-24 13:10:01.116 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-11-24 13:10:01.131 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 23782.446ms
+2023-11-24 13:10:01.137 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:10:01.147 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 94 - 200 - application/json;+charset=utf-8 24103.8594ms
+2023-11-24 13:10:02.158 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:10:02.210 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 51.8615ms
+2023-11-24 13:10:02.218 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:10:02.218 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:10:02.218 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:10:02.224 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 6.7171ms
+2023-11-24 13:10:02.253 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:10:02.275 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.0421ms
+2023-11-24 13:10:02.292 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 73.6643ms
+2023-11-24 13:10:02.470 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:10:02.476 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/favicon-32x32.png - -
+2023-11-24 13:10:02.693 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-11-24 13:10:02.696 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/favicon-32x32.png - - - 200 628 image/png 219.8251ms
+2023-11-24 13:10:02.702 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 231.7001ms
+2023-11-24 13:10:30.522 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 94
+2023-11-24 13:10:30.527 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:10:30.528 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:10:30.534 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:10:30.563 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:10:42.128 +05:30 [ERR] Exception occurred in creating a bay
+2023-11-24 13:10:42.131 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-11-24 13:10:42.134 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 11556.7347ms
+2023-11-24 13:10:42.139 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:10:42.140 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 94 - 200 - application/json;+charset=utf-8 11610.0617ms
+2023-11-24 13:13:25.838 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:13:26.400 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:13:26.491 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:13:26.496 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:13:26.508 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:13:26.510 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:13:26.511 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:13:30.757 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:13:31.053 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 301.7808ms
+2023-11-24 13:13:31.119 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:13:31.705 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 585.7202ms
+2023-11-24 13:13:31.714 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:13:31.715 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:13:31.715 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:13:31.715 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:13:31.717 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:13:31.757 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 41.6268ms
+2023-11-24 13:13:31.780 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:13:31.780 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:13:31.788 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 72.9990ms
+2023-11-24 13:13:31.799 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 81.7859ms
+2023-11-24 13:13:31.792 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 77.6610ms
+2023-11-24 13:13:31.807 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:13:31.811 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 95.6134ms
+2023-11-24 13:13:32.233 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:13:32.565 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 332.2065ms
+2023-11-24 13:14:01.208 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 94
+2023-11-24 13:14:01.340 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:14:01.343 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:14:01.478 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:14:01.548 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:14:31.728 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-11-24 13:14:31.752 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 30188.2831ms
+2023-11-24 13:14:31.762 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:14:31.768 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 94 - 200 - application/json;+charset=utf-8 30555.8103ms
+2023-11-24 13:19:05.569 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:19:06.054 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:19:06.129 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:19:06.133 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:19:06.139 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:19:06.144 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:19:06.147 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:19:08.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:19:08.677 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 94.7746ms
+2023-11-24 13:19:08.701 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:19:09.009 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 307.6641ms
+2023-11-24 13:19:09.011 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:19:09.011 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:19:09.011 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:19:09.016 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:19:09.022 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:19:09.031 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 15.0023ms
+2023-11-24 13:19:09.051 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:19:09.051 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:19:09.055 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 33.8018ms
+2023-11-24 13:19:09.056 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 45.1869ms
+2023-11-24 13:19:09.054 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 43.4402ms
+2023-11-24 13:19:09.058 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:19:09.060 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 49.1431ms
+2023-11-24 13:19:09.928 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:19:10.152 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 223.1637ms
+2023-11-24 13:19:35.296 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 91
+2023-11-24 13:19:35.393 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:19:35.396 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:19:35.532 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:19:35.601 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:24:24.609 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:24:25.153 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:24:25.357 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:24:25.361 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:24:25.364 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:24:25.365 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:24:25.365 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:24:28.977 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:24:29.117 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 137.4561ms
+2023-11-24 13:24:29.133 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:24:29.682 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:24:29.682 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:24:29.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:24:29.684 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 550.6772ms
+2023-11-24 13:24:29.697 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:24:29.714 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:24:29.726 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 29.1939ms
+2023-11-24 13:24:29.751 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:24:29.751 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:24:29.753 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 70.4925ms
+2023-11-24 13:24:29.755 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 73.1939ms
+2023-11-24 13:24:29.764 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:24:29.765 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.4582ms
+2023-11-24 13:24:29.766 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 83.6931ms
+2023-11-24 13:24:30.280 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:24:30.717 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 437.1691ms
+2023-11-24 13:24:54.710 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 91
+2023-11-24 13:24:54.762 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:24:54.764 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:24:54.874 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:24:54.944 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:25:03.010 +05:30 [ERR] Exception occurred in creating a bay
+2023-11-24 13:25:03.029 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-11-24 13:25:03.057 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 8097.5366ms
+2023-11-24 13:25:03.068 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:25:03.073 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 91 - 200 - application/json;+charset=utf-8 8361.7635ms
+2023-11-24 13:25:23.730 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 91
+2023-11-24 13:25:23.758 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:25:23.759 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:25:23.764 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:25:23.778 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:25:27.080 +05:30 [ERR] Exception occurred in creating a bay
+2023-11-24 13:25:27.083 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-11-24 13:25:27.087 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 3306.4757ms
+2023-11-24 13:25:27.089 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:25:27.092 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 91 - 200 - application/json;+charset=utf-8 3361.5088ms
+2023-11-24 13:26:34.586 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 91
+2023-11-24 13:26:34.595 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:26:34.596 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:26:34.601 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:26:34.604 +05:30 [INF] Route matched with {action = "CreateBayByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.BayResponse]] CreateBayByPhaseID(SmartMonitoringSystem.Core.Domain.DBEntities.BaySummaryDetails, Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-11-24 13:26:43.248 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.BayResponse'.
+2023-11-24 13:26:43.251 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API) in 8640.8557ms
+2023-11-24 13:26:43.256 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.CreateBayByPhaseID (SmartMonitoringSystem.API)'
+2023-11-24 13:26:43.257 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Dashboard/CreateBayByPhaseID/1 application/json 91 - 200 - application/json;+charset=utf-8 8670.7043ms
+2023-11-24 13:35:38.676 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:35:38.971 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:35:39.050 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:35:39.052 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:35:39.059 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:35:39.060 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:35:39.061 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:35:42.661 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:35:42.946 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 290.3411ms
+2023-11-24 13:35:42.981 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:35:43.588 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 606.9947ms
+2023-11-24 13:35:43.595 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:35:43.597 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:35:43.600 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:35:43.602 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:35:43.630 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:35:43.667 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 64.3453ms
+2023-11-24 13:35:43.669 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:35:43.669 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:35:43.678 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 77.5365ms
+2023-11-24 13:35:43.682 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 87.1252ms
+2023-11-24 13:35:43.698 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:35:43.702 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 105.0244ms
+2023-11-24 13:35:43.702 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 71.3600ms
+2023-11-24 13:35:44.263 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:35:44.786 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 522.4866ms
+2023-11-24 13:38:35.489 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246
+2023-11-24 13:38:35.588 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:38:35.589 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:38:35.727 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:38:35.794 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:39:00.309 +05:30 [ERR] Exception occurred in creating a device
+2023-11-24 13:39:00.327 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:39:00.350 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 24541.1099ms
+2023-11-24 13:39:00.357 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:39:00.361 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246 - 200 - application/json;+charset=utf-8 24871.0773ms
+2023-11-24 13:39:30.118 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246
+2023-11-24 13:39:30.154 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:39:30.156 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:39:30.172 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:39:30.174 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:40:04.721 +05:30 [ERR] Exception occurred in creating a device
+2023-11-24 13:40:04.761 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:40:04.762 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 34584.153ms
+2023-11-24 13:40:04.805 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:40:04.806 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246 - 200 - application/json;+charset=utf-8 34687.1275ms
+2023-11-24 13:40:07.364 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246
+2023-11-24 13:40:07.369 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:40:07.370 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:40:07.407 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:40:07.411 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:40:29.420 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:40:29.422 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 22003.3092ms
+2023-11-24 13:40:29.423 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:40:29.426 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246 - 200 - application/json;+charset=utf-8 22059.6296ms
+2023-11-24 13:40:48.674 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246
+2023-11-24 13:40:48.676 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:40:48.676 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:40:48.677 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:40:48.680 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:41:21.992 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:41:22.014 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 33328.807ms
+2023-11-24 13:41:22.018 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:41:22.020 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246 - 200 - application/json;+charset=utf-8 33341.4292ms
+2023-11-24 13:42:52.242 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246
+2023-11-24 13:42:52.254 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:42:52.255 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:42:52.257 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:42:52.260 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:42:54.635 +05:30 [ERR] Exception occurred in creating a device
+2023-11-24 13:42:54.647 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:42:54.648 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 2385.6401ms
+2023-11-24 13:42:54.651 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:42:54.652 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D5 application/json 246 - 200 - application/json;+charset=utf-8 2410.4376ms
+2023-11-24 13:42:55.556 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:42:55.614 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 58.1130ms
+2023-11-24 13:42:55.624 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:42:55.628 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:42:55.627 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:42:55.631 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 3.6565ms
+2023-11-24 13:42:55.637 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:42:55.652 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 27.3085ms
+2023-11-24 13:42:55.657 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.0201ms
+2023-11-24 13:42:55.892 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:42:55.892 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/favicon-32x32.png - -
+2023-11-24 13:42:55.907 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-11-24 13:42:55.926 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/favicon-32x32.png - - - 200 628 image/png 34.1723ms
+2023-11-24 13:42:55.935 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 43.2397ms
+2023-11-24 13:44:35.110 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D8 application/json 291
+2023-11-24 13:44:35.125 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:44:35.127 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:44:35.129 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:44:35.145 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:44:35.262 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 110.3764ms
+2023-11-24 13:44:35.266 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:44:35.272 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.MissingMethodException: Attempted to access a missing method.
+   at SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice.set_OrganizationName(String value)
+   at System.Text.Json.Serialization.Metadata.JsonPropertyInfo`1.ReadJsonAndSetMember(Object obj, ReadStack& state, Utf8JsonReader& reader)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCoreAsObject(Utf8JsonReader& reader, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadCore[TValue](Utf8JsonReader& reader, JsonTypeInfo jsonTypeInfo, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ContinueDeserialize[TValue](ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, JsonTypeInfo jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.ReadFromStreamAsync[TValue](Stream utf8Json, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-11-24 13:44:35.326 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D8 application/json 291 - 500 - text/plain;+charset=utf-8 222.7946ms
+2023-11-24 13:45:47.206 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:45:47.565 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:45:47.638 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:45:47.640 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:45:47.651 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:45:47.652 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:45:47.653 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:45:53.626 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:45:53.896 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 275.4589ms
+2023-11-24 13:45:53.920 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:45:54.309 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:45:54.309 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 388.7589ms
+2023-11-24 13:45:54.310 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:45:54.488 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:45:54.498 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:45:54.508 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:45:54.512 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 13.2665ms
+2023-11-24 13:45:54.538 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:45:54.538 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:45:54.540 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 231.0016ms
+2023-11-24 13:45:54.542 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 54.1654ms
+2023-11-24 13:45:54.545 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:45:54.547 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 236.4004ms
+2023-11-24 13:45:54.547 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.8846ms
+2023-11-24 13:45:55.271 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:45:55.726 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 455.1190ms
+2023-11-24 13:47:23.830 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D9 application/json 246
+2023-11-24 13:47:23.922 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:47:23.925 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:47:24.059 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:47:24.121 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:47:33.225 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:47:33.253 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 9117.4091ms
+2023-11-24 13:47:33.264 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:47:33.267 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D9 application/json 246 - 200 - application/json;+charset=utf-8 9435.6453ms
+2023-11-24 13:50:04.904 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:50:05.304 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:50:05.374 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:50:05.377 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:50:05.385 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:50:05.387 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:50:05.390 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:50:07.060 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:50:07.174 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 121.1020ms
+2023-11-24 13:50:07.205 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:50:07.634 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:50:07.635 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:50:07.639 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:50:07.647 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 441.3903ms
+2023-11-24 13:50:07.681 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:50:07.681 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:50:07.683 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 43.9677ms
+2023-11-24 13:50:07.684 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 49.8802ms
+2023-11-24 13:50:07.684 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:50:07.686 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:50:07.686 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 51.4279ms
+2023-11-24 13:50:07.697 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 10.4142ms
+2023-11-24 13:50:07.704 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:50:07.731 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.5602ms
+2023-11-24 13:50:08.281 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:50:08.522 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 240.8431ms
+2023-11-24 13:51:09.232 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D12 application/json 248
+2023-11-24 13:51:09.338 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:51:09.343 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:51:09.480 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:51:09.549 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:51:19.329 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:51:19.351 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 9788.5314ms
+2023-11-24 13:51:19.358 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-11-24 13:51:19.362 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D12 application/json 248 - 200 - application/json;+charset=utf-8 10129.7162ms
+2023-11-24 13:54:14.411 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D12 application/json 265
+2023-11-24 13:54:14.420 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:54:14.422 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:54:14.432 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-11-24 13:54:14.452 +05:30 [INF] Route matched with {action = "EditDevice", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] EditDevice(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:54:14.468 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2023-11-24 13:54:14.475 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API) in 21.5247ms
+2023-11-24 13:54:14.476 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-11-24 13:54:14.478 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D12 application/json 265 - 400 - application/problem+json;+charset=utf-8 70.5146ms
+2023-11-24 13:54:36.048 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D12 application/json 264
+2023-11-24 13:54:36.051 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:54:36.053 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:54:36.058 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-11-24 13:54:36.060 +05:30 [INF] Route matched with {action = "EditDevice", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] EditDevice(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:54:36.244 +05:30 [ERR] Exception occurred in updating a device
+2023-11-24 13:54:36.248 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:54:36.253 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API) in 190.6835ms
+2023-11-24 13:54:36.256 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-11-24 13:54:36.258 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D12 application/json 264 - 200 - application/json;+charset=utf-8 209.9538ms
+2023-11-24 13:55:04.051 +05:30 [INF] User profile is available. Using 'C:\Users\rohini.venkatachalam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-24 13:55:04.610 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-24 13:55:04.694 +05:30 [INF] Now listening on: https://localhost:7191
+2023-11-24 13:55:04.695 +05:30 [INF] Now listening on: http://localhost:5118
+2023-11-24 13:55:04.700 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-24 13:55:04.702 +05:30 [INF] Hosting environment: Development
+2023-11-24 13:55:04.704 +05:30 [INF] Content root path: D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-11-24 13:55:08.159 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-11-24 13:55:08.257 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 100.2347ms
+2023-11-24 13:55:08.294 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:55:09.102 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-11-24 13:55:09.102 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-11-24 13:55:09.102 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:55:09.130 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 835.9957ms
+2023-11-24 13:55:09.140 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:55:09.139 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:55:09.173 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-24 13:55:09.173 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:55:09.175 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 72.8020ms
+2023-11-24 13:55:09.176 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 73.9219ms
+2023-11-24 13:55:09.190 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 50.6079ms
+2023-11-24 13:55:09.196 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-24 13:55:09.203 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 101.2234ms
+2023-11-24 13:55:09.207 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 67.0124ms
+2023-11-24 13:55:09.427 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:55:09.708 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 280.0507ms
+2023-11-24 13:55:37.773 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D12 application/json 264
+2023-11-24 13:55:37.871 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:55:37.873 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:55:38.007 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-11-24 13:55:38.077 +05:30 [INF] Route matched with {action = "EditDevice", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] EditDevice(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:57:06.839 +05:30 [ERR] Exception occurred in updating a device
+2023-11-24 13:57:06.953 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:57:06.979 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API) in 88885.8697ms
+2023-11-24 13:57:06.989 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-11-24 13:57:06.994 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D12 application/json 264 - 200 - application/json;+charset=utf-8 89217.8368ms
+2023-11-24 13:57:07.935 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-11-24 13:57:08.129 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 194.0826ms
+2023-11-24 13:57:08.151 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-11-24 13:57:08.152 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-11-24 13:57:08.152 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-11-24 13:57:08.162 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 10.0780ms
+2023-11-24 13:57:08.166 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-24 13:57:08.173 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 22.4395ms
+2023-11-24 13:57:08.263 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 110.7981ms
+2023-11-24 13:57:08.490 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-11-24 13:57:08.494 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/favicon-32x32.png - -
+2023-11-24 13:57:08.598 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-11-24 13:57:08.599 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/favicon-32x32.png - - - 200 628 image/png 105.2721ms
+2023-11-24 13:57:08.611 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 120.6265ms
+2023-11-24 13:57:27.944 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D12 application/json 264
+2023-11-24 13:57:27.948 +05:30 [INF] CORS policy execution failed.
+2023-11-24 13:57:27.949 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-11-24 13:57:27.952 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-11-24 13:57:27.965 +05:30 [INF] Route matched with {action = "EditDevice", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] EditDevice(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-11-24 13:57:47.499 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-11-24 13:57:47.505 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API) in 19533.1561ms
+2023-11-24 13:57:47.507 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-11-24 13:57:47.510 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/D12 application/json 264 - 200 - application/json;+charset=utf-8 19565.2645ms

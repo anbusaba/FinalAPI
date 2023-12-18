@@ -1,0 +1,90 @@
+2023-12-18 18:06:37.731 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - -
+2023-12-18 18:06:37.745 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-18 18:06:37.748 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByBayID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]] GetSummaryDetailsByBayID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 18:06:37.781 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse'.
+2023-12-18 18:06:37.784 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API) in 32.3646ms
+2023-12-18 18:06:37.787 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-18 18:06:37.789 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - - - 200 - application/json;+charset=utf-8 58.3776ms
+2023-12-18 18:08:06.649 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetBayDetailsByPhaseID/1 - -
+2023-12-18 18:08:06.651 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-18 18:08:06.653 +05:30 [INF] Route matched with {action = "GetBayDetailsByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.BayResponse]]] GetBayDetailsByPhaseID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 18:08:06.669 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.BayResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 18:08:06.672 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API) in 14.5208ms
+2023-12-18 18:08:06.674 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-18 18:08:06.676 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetBayDetailsByPhaseID/1 - - - 200 - application/json;+charset=utf-8 26.6236ms
+2023-12-18 18:15:09.068 +05:30 [INF] Start processing HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 18:15:09.081 +05:30 [INF] Sending HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 18:15:09.219 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - -
+2023-12-18 18:15:09.225 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 18:15:09.228 +05:30 [INF] Route matched with {action = "GetNotifications", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.NotificationResponse]]] GetNotifications() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 18:15:09.269 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.NotificationResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 18:15:09.273 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API) in 39.0042ms
+2023-12-18 18:15:09.273 +05:30 [INF] Received HTTP response headers after 189.4546ms - 200
+2023-12-18 18:15:09.277 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 18:15:09.280 +05:30 [INF] End processing HTTP request after 212.0854ms - 200
+2023-12-18 18:15:09.286 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - - - 200 - application/json;+charset=utf-8 66.7211ms
+2023-12-18 18:30:09.071 +05:30 [INF] Start processing HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 18:30:09.073 +05:30 [INF] Sending HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 18:30:09.127 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - -
+2023-12-18 18:30:09.129 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 18:30:09.135 +05:30 [INF] Route matched with {action = "GetNotifications", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.NotificationResponse]]] GetNotifications() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 18:30:09.169 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.NotificationResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 18:30:09.172 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API) in 32.4289ms
+2023-12-18 18:30:09.172 +05:30 [INF] Received HTTP response headers after 95.0564ms - 200
+2023-12-18 18:30:09.177 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 18:30:09.180 +05:30 [INF] End processing HTTP request after 110.9085ms - 200
+2023-12-18 18:30:09.183 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - - - 200 - application/json;+charset=utf-8 56.4981ms
+2023-12-18 18:48:26.768 +05:30 [INF] User profile is available. Using 'C:\Users\sabapathi.shanmugam\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-18 18:48:28.082 +05:30 [INF] Start processing HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 18:48:28.180 +05:30 [INF] Sending HTTP request GET https://localhost:7191/api/Dashboard/GetNotifications
+2023-12-18 18:48:30.915 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-18 18:48:31.003 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-18 18:48:31.015 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-18 18:48:31.040 +05:30 [INF] Hosting environment: Development
+2023-12-18 18:48:31.042 +05:30 [INF] Content root path: D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-18 18:48:32.751 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - -
+2023-12-18 18:48:33.639 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 18:48:33.692 +05:30 [INF] Route matched with {action = "GetNotifications", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.NotificationResponse]]] GetNotifications() on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 18:48:36.418 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-18 18:48:38.434 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.NotificationResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 18:48:41.072 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-18 18:48:40.770 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 4346.4613ms
+2023-12-18 18:48:41.319 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-18 18:48:41.420 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 347.2486ms
+2023-12-18 18:48:42.528 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API) in 8798.6844ms
+2023-12-18 18:48:42.539 +05:30 [INF] Received HTTP response headers after 13814.0325ms - 200
+2023-12-18 18:48:42.599 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1279.8478ms
+2023-12-18 18:48:42.633 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetNotifications (SmartMonitoringSystem.API)'
+2023-12-18 18:48:42.641 +05:30 [INF] End processing HTTP request after 14592.3235ms - 200
+2023-12-18 18:48:42.652 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7191/api/Dashboard/GetNotifications - - - 200 - application/json;+charset=utf-8 9911.8799ms
+2023-12-18 18:48:43.009 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-18 18:48:44.099 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1090.1202ms
+2023-12-18 18:48:57.249 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByPhaseID/1 - -
+2023-12-18 18:48:57.280 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-18 18:48:57.321 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]]] GetSummaryDetailsByPhaseID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 18:48:57.657 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 18:48:57.724 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByPhaseID (SmartMonitoringSystem.API) in 394.5058ms
+2023-12-18 18:48:57.732 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-18 18:48:57.735 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByPhaseID/1 - - - 200 - application/json;+charset=utf-8 489.6746ms
+2023-12-18 18:49:15.111 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - -
+2023-12-18 18:49:15.148 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-18 18:49:15.170 +05:30 [INF] Route matched with {action = "GetSummaryDetailsByBayID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse]]] GetSummaryDetailsByBayID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 18:49:15.234 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.PhaseSummaryDetailsResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 18:49:15.251 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API) in 66.1577ms
+2023-12-18 18:49:15.267 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetSummaryDetailsByBayID (SmartMonitoringSystem.API)'
+2023-12-18 18:49:15.272 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetSummaryDetailsByBayID/1 - - - 200 - application/json;+charset=utf-8 160.8893ms
+2023-12-18 18:49:52.289 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Dashboard/GetBayDetailsByPhaseID/1 - -
+2023-12-18 18:49:52.308 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-18 18:49:52.324 +05:30 [INF] Route matched with {action = "GetBayDetailsByPhaseID", controller = "Dashboard"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.BayResponse]]] GetBayDetailsByPhaseID(Int32) on controller SmartMonitoringSystem.API.Controllers.DashboardController (SmartMonitoringSystem.API).
+2023-12-18 18:49:52.367 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.BayResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-18 18:49:52.375 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API) in 41.6683ms
+2023-12-18 18:49:52.385 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DashboardController.GetBayDetailsByPhaseID (SmartMonitoringSystem.API)'
+2023-12-18 18:49:52.388 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Dashboard/GetBayDetailsByPhaseID/1 - - - 200 - application/json;+charset=utf-8 98.1663ms
+2023-12-18 18:49:56.519 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-18 18:49:56.630 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 110.9394ms
+2023-12-18 18:49:56.798 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-18 18:49:56.806 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-18 18:49:56.864 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 12382 application/javascript;+charset=utf-8 65.3375ms
+2023-12-18 18:49:57.433 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 627.6619ms
+2023-12-18 18:49:57.756 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-18 18:49:57.867 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 110.7820ms

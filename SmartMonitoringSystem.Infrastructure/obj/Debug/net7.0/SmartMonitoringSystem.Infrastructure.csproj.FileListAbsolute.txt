@@ -1,0 +1,85 @@
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.deps.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.runtimeconfig.json
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CopyComplete
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\refint\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\sram\Downloads\Hackathon\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\ref\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.deps.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.runtimeconfig.json
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CopyComplete
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\refint\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\sram\Downloads\Exploration- Repos\Working\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\ref\SmartMonitoringSystem.Infrastructure.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.deps.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.runtimeconfig.json
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfo.cs
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CopyComplete
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\refint\SmartMonitoringSystem.Infrastructure.dll
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.genruntimeconfig.cache
+D:\Hackathon API\Hackathon-JWT 50 percent\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\ref\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.deps.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.runtimeconfig.json
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CopyComplete
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\refint\SmartMonitoringSystem.Infrastructure.dll
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\ref\SmartMonitoringSystem.Infrastructure.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.deps.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.runtimeconfig.json
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\bin\Debug\net7.0\SmartMonitoringSystem.Core.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.AssemblyInfo.cs
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.csproj.CopyComplete
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\refint\SmartMonitoringSystem.Infrastructure.dll
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.pdb
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\SmartMonitoringSystem.Infrastructure.genruntimeconfig.cache
+D:\FinalAPI - CodeDribble\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\obj\Debug\net7.0\ref\SmartMonitoringSystem.Infrastructure.dll

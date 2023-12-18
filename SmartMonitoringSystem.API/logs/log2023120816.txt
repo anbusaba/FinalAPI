@@ -1,0 +1,235 @@
+2023-12-08 16:43:59.196 +05:30 [INF] User profile is available. Using 'C:\Users\lokes\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-12-08 16:43:59.624 +05:30 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-12-08 16:43:59.709 +05:30 [INF] Now listening on: https://localhost:7191
+2023-12-08 16:43:59.710 +05:30 [INF] Now listening on: http://localhost:5118
+2023-12-08 16:43:59.711 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-08 16:43:59.712 +05:30 [INF] Hosting environment: Development
+2023-12-08 16:43:59.713 +05:30 [INF] Content root path: C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API
+2023-12-08 16:44:00.785 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger - -
+2023-12-08 16:44:01.004 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger - - - 301 0 - 220.7134ms
+2023-12-08 16:44:01.012 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/index.html - -
+2023-12-08 16:44:01.112 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/index.html - - - 200 - text/html;charset=utf-8 99.8307ms
+2023-12-08 16:44:01.117 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - -
+2023-12-08 16:44:01.118 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - -
+2023-12-08 16:44:01.118 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - -
+2023-12-08 16:44:01.120 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_vs/browserLink - -
+2023-12-08 16:44:01.118 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - -
+2023-12-08 16:44:01.180 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_framework/aspnetcore-browser-refresh.js - - - 200 13786 application/javascript;+charset=utf-8 61.6702ms
+2023-12-08 16:44:01.254 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-12-08 16:44:01.254 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-12-08 16:44:01.261 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui.css - - - 200 144929 text/css 143.3469ms
+2023-12-08 16:44:01.264 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 146.0701ms
+2023-12-08 16:44:01.299 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-12-08 16:44:01.301 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 182.9730ms
+2023-12-08 16:44:01.320 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 199.2641ms
+2023-12-08 16:44:01.516 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - -
+2023-12-08 16:44:01.705 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 189.4723ms
+2023-12-08 16:45:51.780 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 188
+2023-12-08 16:45:51.810 +05:30 [INF] CORS policy execution failed.
+2023-12-08 16:45:51.812 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-08 16:45:51.869 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:45:51.891 +05:30 [INF] Route matched with {action = "GenerateNewToken", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateNewToken(SmartMonitoringSystem.Core.DTO.TokenModel) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-12-08 16:45:52.033 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API) in 136.2622ms
+2023-12-08 16:45:52.037 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:45:52.039 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: IDX12741: JWT: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' must have three segments (JWS) or five segments (JWE).
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at SmartMonitoringSystem.Core.Services.JwtService.GetClaimsPrincipalJwtToken(String token) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\Services\JwtService.cs:line 76
+   at SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken(TokenModel tokenModel) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\Controllers\LoginController.cs:line 66
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-12-08 16:45:52.070 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 188 - 500 - text/plain;+charset=utf-8 290.6297ms
+2023-12-08 16:46:44.303 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 194
+2023-12-08 16:46:44.310 +05:30 [INF] CORS policy execution failed.
+2023-12-08 16:46:44.312 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-08 16:46:44.315 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:46:44.354 +05:30 [INF] Route matched with {action = "GenerateNewToken", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateNewToken(SmartMonitoringSystem.Core.DTO.TokenModel) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-12-08 16:46:44.383 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API) in 27.4694ms
+2023-12-08 16:46:44.386 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:46:44.387 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: IDX12741: JWT: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' must have three segments (JWS) or five segments (JWE).
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at SmartMonitoringSystem.Core.Services.JwtService.GetClaimsPrincipalJwtToken(String token) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\Services\JwtService.cs:line 76
+   at SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken(TokenModel tokenModel) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\Controllers\LoginController.cs:line 66
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-12-08 16:46:44.392 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 194 - 500 - text/plain;+charset=utf-8 89.0010ms
+2023-12-08 16:47:18.328 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 194
+2023-12-08 16:47:18.330 +05:30 [INF] CORS policy execution failed.
+2023-12-08 16:47:18.331 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-08 16:47:18.333 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:47:18.334 +05:30 [INF] Route matched with {action = "GenerateNewToken", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateNewToken(SmartMonitoringSystem.Core.DTO.TokenModel) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-12-08 16:48:11.717 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API) in 53382.1423ms
+2023-12-08 16:48:11.720 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:48:11.724 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: IDX12741: JWT: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' must have three segments (JWS) or five segments (JWE).
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at SmartMonitoringSystem.Core.Services.JwtService.GetClaimsPrincipalJwtToken(String token) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\Services\JwtService.cs:line 76
+   at SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken(TokenModel tokenModel) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\Controllers\LoginController.cs:line 66
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-12-08 16:48:11.728 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 194 - 500 - text/plain;+charset=utf-8 53399.2968ms
+2023-12-08 16:48:28.617 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 194
+2023-12-08 16:48:28.619 +05:30 [INF] CORS policy execution failed.
+2023-12-08 16:48:28.620 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-08 16:48:28.621 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:48:28.622 +05:30 [INF] Route matched with {action = "GenerateNewToken", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateNewToken(SmartMonitoringSystem.Core.DTO.TokenModel) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-12-08 16:48:30.785 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API) in 2161.5865ms
+2023-12-08 16:48:30.789 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:48:30.790 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: IDX12741: JWT: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' must have three segments (JWS) or five segments (JWE).
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at SmartMonitoringSystem.Core.Services.JwtService.GetClaimsPrincipalJwtToken(String token) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\Services\JwtService.cs:line 76
+   at SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken(TokenModel tokenModel) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\Controllers\LoginController.cs:line 66
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-12-08 16:48:30.794 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 194 - 500 - text/plain;+charset=utf-8 2176.5467ms
+2023-12-08 16:48:33.590 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 194
+2023-12-08 16:48:33.591 +05:30 [INF] CORS policy execution failed.
+2023-12-08 16:48:33.591 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-08 16:48:33.592 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:48:33.593 +05:30 [INF] Route matched with {action = "GenerateNewToken", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateNewToken(SmartMonitoringSystem.Core.DTO.TokenModel) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-12-08 16:48:58.787 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API) in 25192.5026ms
+2023-12-08 16:48:58.791 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken (SmartMonitoringSystem.API)'
+2023-12-08 16:48:58.795 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: IDX12741: JWT: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' must have three segments (JWS) or five segments (JWE).
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at SmartMonitoringSystem.Core.Services.JwtService.GetClaimsPrincipalJwtToken(String token) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\Services\JwtService.cs:line 76
+   at SmartMonitoringSystem.API.Controllers.LoginController.GenerateNewToken(TokenModel tokenModel) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\Controllers\LoginController.cs:line 66
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-12-08 16:48:58.798 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/generate-new-jwtToken application/json 194 - 500 - text/plain;+charset=utf-8 25208.7427ms
+2023-12-08 16:50:28.442 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Login/login application/json 62
+2023-12-08 16:50:28.448 +05:30 [INF] CORS policy execution failed.
+2023-12-08 16:50:28.450 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-08 16:50:28.451 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-12-08 16:50:28.456 +05:30 [INF] Route matched with {action = "PostLogin", controller = "Login"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.Identity.ApplicationUser]] PostLogin(SmartMonitoringSystem.Core.DTO.LoginDto) on controller SmartMonitoringSystem.API.Controllers.LoginController (SmartMonitoringSystem.API).
+2023-12-08 16:50:28.462 +05:30 [INF] Reached PostLogin method
+2023-12-08 16:50:34.025 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API) in 5567.7711ms
+2023-12-08 16:50:34.027 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.LoginController.PostLogin (SmartMonitoringSystem.API)'
+2023-12-08 16:50:34.028 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ApplicationException: Attempting to cast a DBNull to a non nullable type! Note that out/return parameters will not have updated values until the data stream completes (after the 'foreach' for Query(..., buffered: false), or after the GridReader has been disposed for QueryMultiple)
+   at Dapper.DynamicParameters.Get[T](String name) in /_/Dapper/DynamicParameters.cs:line 325
+   at SmartMonitoringSystem.Infrastructure.Repository.LoginRepository.LoginUser(LoginDto loginDTO) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Infrastructure\Repository\LoginRepository.cs:line 32
+   at SmartMonitoringSystem.Core.Services.JwtService.LoginUser(LoginDto loginDTO) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.Core\Services\JwtService.cs:line 86
+   at SmartMonitoringSystem.API.Controllers.LoginController.PostLogin(LoginDto loginDTO) in C:\Users\lokes\Desktop\My Project\Hackathon\SmartMonitoringSystem.API\SmartMonitoringSystem.API\Controllers\LoginController.cs:line 39
+   at lambda_method14(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-12-08 16:50:34.101 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Login/login application/json 62 - 500 - text/plain;+charset=utf-8 5658.6252ms
+2023-12-08 16:51:05.132 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-08 16:51:05.139 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-08 16:51:05.142 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-08 16:51:09.511 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.DeviceResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-08 16:51:09.517 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API) in 4373.9468ms
+2023-12-08 16:51:09.521 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-08 16:51:09.522 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - - - 200 - application/json;+charset=utf-8 4390.2421ms
+2023-12-08 16:52:12.706 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D3 application/json 272
+2023-12-08 16:52:12.714 +05:30 [INF] CORS policy execution failed.
+2023-12-08 16:52:12.714 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-08 16:52:12.715 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-12-08 16:52:12.719 +05:30 [INF] Route matched with {action = "CreateDeviceByBayID", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] CreateDeviceByBayID(SmartMonitoringSystem.Core.Domain.DBEntities.CreateDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-08 16:52:14.684 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-12-08 16:52:14.688 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API) in 1967.8376ms
+2023-12-08 16:52:14.694 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.CreateDeviceByBayID (SmartMonitoringSystem.API)'
+2023-12-08 16:52:14.695 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7191/api/Device/AddDevice/1/D3 application/json 272 - 200 - application/json;+charset=utf-8 1988.6039ms
+2023-12-08 16:53:56.158 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/string application/json 156
+2023-12-08 16:53:56.161 +05:30 [INF] CORS policy execution failed.
+2023-12-08 16:53:56.161 +05:30 [INF] Request origin https://localhost:7191 does not have permission to access the resource.
+2023-12-08 16:53:56.162 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-12-08 16:53:56.167 +05:30 [INF] Route matched with {action = "EditDevice", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse]] EditDevice(SmartMonitoringSystem.Core.Domain.DBEntities.EditDevice, Int32, System.String) on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-08 16:53:57.474 +05:30 [INF] Executing ObjectResult, writing value of type 'SmartMonitoringSystem.Core.DTO.DeviceDetailsResponse'.
+2023-12-08 16:53:57.475 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API) in 1304.2748ms
+2023-12-08 16:53:57.475 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.EditDevice (SmartMonitoringSystem.API)'
+2023-12-08 16:53:57.476 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7191/api/Device/EditDevice/1/string application/json 156 - 200 - application/json;+charset=utf-8 1318.3224ms
+2023-12-08 16:55:09.925 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - -
+2023-12-08 16:55:09.931 +05:30 [INF] Executing endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-08 16:55:09.932 +05:30 [INF] Route matched with {action = "GetAllDevices", controller = "Device"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[SmartMonitoringSystem.Core.DTO.DeviceResponse]]] GetAllDevices() on controller SmartMonitoringSystem.API.Controllers.DeviceController (SmartMonitoringSystem.API).
+2023-12-08 16:55:11.967 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[SmartMonitoringSystem.Core.DTO.DeviceResponse, SmartMonitoringSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-08 16:55:11.969 +05:30 [INF] Executed action SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API) in 2036.7795ms
+2023-12-08 16:55:11.975 +05:30 [INF] Executed endpoint 'SmartMonitoringSystem.API.Controllers.DeviceController.GetAllDevices (SmartMonitoringSystem.API)'
+2023-12-08 16:55:11.975 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7191/api/Device/GetAllDevices - - - 200 - application/json;+charset=utf-8 2050.5932ms
